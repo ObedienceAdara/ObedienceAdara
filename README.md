@@ -27,7 +27,6 @@ Here's an enhanced GitHub profile bio using HTML and CSS for the tables:
 
 ### My Languages
 
-```html
 <table>
   <tr>
     <th>Python</th>
@@ -48,11 +47,9 @@ Here's an enhanced GitHub profile bio using HTML and CSS for the tables:
     <td><img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3" alt="CSS"></td>
   </tr>
 </table>
-```
 
 ### Most Used Libraries
 
-```html
 <table>
   <tr>
     <th>TensorFlow</th>
@@ -73,7 +70,6 @@ Here's an enhanced GitHub profile bio using HTML and CSS for the tables:
     <td><img src="https://img.shields.io/badge/-Scikit--Learn-blue?style=flat-square&logo=scikit-learn" alt="Scikit-Learn"></td>
   </tr>
 </table>
-```
 
 ## **How to Reach Me**
 
