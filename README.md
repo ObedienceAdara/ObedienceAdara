@@ -12,6 +12,7 @@
 - **GitHub:** [@ObedienceAdara](https://github.com/ObedienceAdara)
 - **LinkedIn:** [Obedience Adara](https://www.linkedin.com/in/obedience-adara-5832062b2)
 - **X:** [Obedience Adara](https://www.X.com/ObedienceAdara)
+- **PyPI** [Obedience Adara](https://pypi.org/user/obedienceadara)
 - **Email:** [Obededience Adara](obedienceadara@gmail.com)
 
 <!-- ## **Projects**
