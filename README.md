@@ -10,7 +10,7 @@
 ## **Contact Me**
 
 - **GitHub:** [@ObedienceAdara](https://github.com/ObedienceAdara)
-- **LinkedIn:** [Obedience Adara](https://www.linkedin.com/in/obedience-adara-5832062b2)
+- **LinkedIn:** [Obedience Adara](https://www.linkedin.com/in/ObedienceAdara)
 - **X:** [Obedience Adara](https://www.X.com/ObedienceAdara)
 - **PyPI** [Obedience Adara](https://pypi.org/user/obedienceadara)
 - **Email:** [Obededience Adara](obedienceadara@gmail.com)
@@ -35,4 +35,4 @@
 
 ## **How to Reach Me**
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/obedience-adara-5832062b2), [X](https://www.X.com/ObedienceAdara) or [email](obedienceadara@gmail.com) if you'd like to collaborate or discuss AI and Deep Learning!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ObedienceAdara), [X](https://www.X.com/ObedienceAdara) or [email](obedienceadara@gmail.com) if you'd like to collaborate or discuss AI and Deep Learning!
