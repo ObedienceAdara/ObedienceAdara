@@ -50,11 +50,11 @@
 
 ## Stack
 
-**Orchestration:** LangGraph · LangChain · n8n  
-**LLMs:** Claude API · OpenRouter · Gemini · Groq  
-**Backend:** FastAPI · Python · Node.js · TypeScript  
-**Infra:** Docker · PostgreSQL · Supabase · Railway  
-**Auth & Security:** Auth0 · JWT · OAuth2  
+- **Orchestration:** LangGraph · LangChain · n8n  
+- **LLMs:** Claude API · OpenRouter · Gemini · Groq  . Qwen
+- **Backend:** FastAPI · Python · Node.js · TypeScript  
+- **Infra:** Docker · PostgreSQL · Supabase · Railway  
+- **Auth & Security:** Auth0 · JWT · OAuth2  
 
 ---
 
