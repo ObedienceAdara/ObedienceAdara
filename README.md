@@ -1,6 +1,6 @@
 # Obedience Adara
 
-🌍 **Lagos, Nigeria** | 🤖 **Agentic AI Builder** | ⚡ **Vibe Coder** | 🔧 **Founder, Plex Hedge**
+**Lagos, Nigeria** | **Agentic AI Builder** | **Vibe Coder** | **Founder, Plex Hedge**
 
 
 
