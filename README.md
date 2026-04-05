@@ -22,7 +22,7 @@
 
 ## Current Projects
 
-- 🔐 **[Agent Gate](https://github.com/ObedienceAdara/code flow-agent)** — A multi-agent AI system that orchestrates entire development workflows autonomously
+- 🔐 **[Agent Gate](https://github.com/ObedienceAdara/codeflow-agent)** — A multi-agent AI system that orchestrates entire development workflows autonomously
 - 🧠 **MetaForge** — Autonomous metadata intelligence platform. LangGraph + FastAPI + OpenMetadata APIs
 - 😂 **GiggleGPT** — Entertainment-first AI chatbot. Because AI should also make you laugh
 - 🏭 **[Plex Hedge](https://github.com/plexhedge)** — AI automation & integration agency. n8n workflows, agentic systems, real business results for SMBs
