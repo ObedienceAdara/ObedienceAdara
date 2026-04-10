@@ -53,7 +53,7 @@
 - **Orchestration:** LangGraph · LangChain · n8n  
 - **LLMs:** Claude API · OpenRouter · Gemini · Groq  . Qwen
 - **Backend:** FastAPI · Python · Node.js · TypeScript  
-- **Infra:** Docker · PostgreSQL · Supabase · Railway  
+- **Infra:** Docker · PostgreSQL · Supabase · Vercel  
 - **Auth & Security:** Auth0 · JWT · OAuth2  
 
 ---
