@@ -71,7 +71,7 @@
 
 - 🏆 Auth0 "Authorized to Act" Hackathon competitor — AgentGate
 - 🏗️ WeMakeDevs / OpenMetadata Hackathon competitor — MetaForge  
-- 📣 Building @PlexHedge — AI automation agency with paying clients
+- 📣 Building [@plexhedge](https://github.com/plexhedge) — AI automation agency with paying clients
 
 ---
 
