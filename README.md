@@ -69,9 +69,9 @@
 
 ## Recognition
 
-- 🏆 Auth0 "Authorized to Act" Hackathon competitor — AgentGate
-- 🏗️ WeMakeDevs / OpenMetadata Hackathon competitor — MetaForge  
-- 📣 Building [@plexhedge](https://github.com/plexhedge) — AI automation agency with paying clients
+- 🏆 Auth0 "Authorized to Act" Hackathon competitor, AgentGate
+- 🏗️ WeMakeDevs / OpenMetadata Hackathon competitor, MetaForge  
+- 📣 Building [@plexhedge](https://github.com/plexhedge), AI automation agency with paying clients
 
 ---
 
