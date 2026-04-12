@@ -31,10 +31,10 @@
 
 ## What I Build
 
-- **Agentic AI Systems** — Multi-agent pipelines using LangGraph, LangChain, and Claude API
-- **Workflow Automation** — Production-grade n8n systems for ecommerce, ops, and client delivery
-- **AI-Powered Tools** — FastAPI backends, LLM wrappers, open-source utilities
-- **Automation Infrastructure** — Systems that replace repetitive human work, permanently
+- **Agentic AI Systems**: Multi-agent pipelines using LangGraph, LangChain, and Claude API
+- **Workflow Automation**: Production-grade n8n systems for ecommerce, ops, and client delivery
+- **AI-Powered Tools**: FastAPI backends, LLM wrappers, open-source utilities
+- **Automation Infrastructure**: Systems that replace repetitive human work, permanently
 
 ---
 
