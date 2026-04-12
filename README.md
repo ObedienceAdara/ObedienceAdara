@@ -60,10 +60,10 @@
 
 ## What I'm Doing
 
-- **Shipping agentic systems** — real tools, real repos, real impact
-- **Building in public** — LinkedIn · X · YouTube Shorts
-- **Competing in hackathons** — turning builds into proof of work
-- **Writing about AI automation** — what actually works, from Lagos to the world
+- **Shipping agentic systems**: real tools, real repos, real impact
+- **Building in public**: LinkedIn · X · YouTube Shorts
+- **Competing in hackathons**: turning builds into proof of work
+- **Writing about AI automation**: what actually works, from Lagos to the world
 
 ---
 
