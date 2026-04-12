@@ -40,11 +40,11 @@
 
 ## Open Source
 
-- 🤖 **Lead Qualifier Agent** — LangGraph agent that qualifies inbound leads autonomously
-- 👥 **AI Hiring Team** — Multi-agent recruitment pipeline (sourcing → screening → decision)
-- 🧑‍💼 **Board of Directors AI** — Simulated executive board for business decision analysis
-- 🔍 **Research Agent** — Autonomous deep-research pipeline with structured output
-- 🧪 **[ML Paper Implementation Team](https://github.com/ObedienceAdara/Board-of-Scientists)** — Multi-agent system that reads and implements ML papers
+- 🤖 **Lead Qualifier Agent**: LangGraph agent that qualifies inbound leads autonomously
+- 👥 **AI Hiring Team**: Multi-agent recruitment pipeline (sourcing → screening → decision)
+- 🧑‍💼 **Board of Directors AI**: Simulated executive board for business decision analysis
+- 🔍 **Research Agent**: Autonomous deep-research pipeline with structured output
+- 🧪 **[ML Paper Implementation Team](https://github.com/ObedienceAdara/Board-of-Scientists)**: Multi-agent system that reads and implements ML papers
 
 ---
 
