@@ -35,7 +35,7 @@
 
 ---
 
-## What I Build
+## What I Build (still actively working on) 
 
 - **RL & Autonomous Systems (learning)**: Gymnasium, PyTorch, control problems as foundation for aerospace work
 - **Agentic AI Systems**: Multi-agent pipelines using LangGraph, LangChain, and Claude API
@@ -47,10 +47,11 @@
 ## Open Source
 
 - 🤖 **Lead Qualifier Agent**: LangGraph agent that qualifies inbound leads autonomously
-- 👥 **AI Hiring Team**: Multi-agent recruitment pipeline (sourcing → screening → decision)
-- 🧑‍💼 **Board of Directors AI**: Simulated executive board for business decision analysis
+- 👥 **[AI Hiring Team](https://github.com/ObedienceAdara/AI-hiring-team)**: Multi-agent recruitment pipeline (sourcing → screening → decision)
+- 🧑‍💼 **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: Simulated executive board for business decision analysis
 - 🔍 **Research Agent**: Autonomous deep-research pipeline with structured output
 - 🧪 **[ML Paper Implementation Team](https://github.com/ObedienceAdara/Board-of-Scientists)**: Multi-agent system that reads and implements ML papers
+- 🔬 **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**
 
 ---
 
@@ -69,7 +70,7 @@
 
 - **Learning in public**: documenting the RL/aerospace journey alongside the business
 - **Shipping agentic systems**: real tools, real repos, real impact
-- **Building in public**: LinkedIn · X · YouTube Shorts
+- **Building in public**: LinkedIn · X · Threads 
 - **Competing in hackathons**: turning builds into proof of work
 - **Writing about AI automation**: what actually works, from Lagos to the world
 
