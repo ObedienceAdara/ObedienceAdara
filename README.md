@@ -51,7 +51,8 @@
 - 🧑‍💼 **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: Simulated executive board for business decision analysis
 - 🔍 **Research Agent**: Autonomous deep-research pipeline with structured output
 - 🧪 **[ML Paper Implementation Team](https://github.com/ObedienceAdara/Board-of-Scientists)**: Multi-agent system that reads and implements ML papers
-- 🔬 **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**
+- 🔬 **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**: AI Research Implementation Team is dedicated to advancing artificial intelligence technologies and translating cutting-edge research into practical applications
+- **[Prologue](https://github.com/ObedienceAdara/Prologue)**: An autonomous AI agent that connects to a GitHub repository, analyzes code for "code smells", creates a refactoring plan, applies changes in a new branch, runs tests, and opens a Pull Request.
 
 ---
 
