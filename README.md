@@ -27,7 +27,7 @@
 
 ---
 
-## Income Vehicle: Plex Hedge
+## Income Vehicle
 
 - 🔐 **[CodeFlow Agent](https://github.com/ObedienceAdara/codeflow-agent)**: A multi-agent AI system that orchestrates entire development workflows autonomously
 - 🧠 **MetaForge**: Autonomous metadata intelligence platform. LangGraph + FastAPI + OpenMetadata APIs
