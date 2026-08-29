@@ -54,6 +54,7 @@ I'm using these experiments to build practical understanding of:
 * Simulation-based control
 
 Longer term: applying RL to **UAVs, robotics, and aerospace control systems**.
+
 Follow my progress: **[RL Lab ↗️](https://obedienceadara.vercel.app/lab)**
 
 ---
