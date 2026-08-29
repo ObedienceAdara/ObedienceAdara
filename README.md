@@ -1,104 +1,167 @@
 # Obedience Adara
 
-**Aspiring Aerospace/Autonomous Systems Engineer** | **RL Learner** | **Founder, Plex Hedge**
+**Aerospace & Autonomous Systems Engineer in Training** · **Reinforcement Learning** · **AI Systems** · **Founder, Plex Hedge**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/-Gymnasium-0081A5?style=flat-square\&logo=python\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
-
-
-> Working toward aerospace engineering and autonomous systems — the intersection of
-> robotics, reinforcement learning, and human-machine teaming. Funding that path by
-> building real AI automation systems for real businesses. Shipping fast either way.
+> Building toward aerospace and autonomous systems through reinforcement learning, AI engineering, simulation, and intelligent decision-making — while building AI automation systems that fund the journey.
 
 ---
 
-## Current Focus: Reinforcement Learning
+## What I'm Building Toward
 
-- 🤖 **[RL Learning Log](https://github.com/ObedienceAdara/rl-learning-log)**: Working through Gymnasium environments — cartpole → lunar lander → more complex control problems
-- 📚 Studying PyTorch fundamentals for RL implementation
-- 🎯 Long-term: simulated drone/robotic arm control as steps toward aerospace/autonomous systems work
+My long-term focus is **autonomous systems for aerospace**.
 
----
+I'm currently developing the foundations through:
 
-## Income Vehicle
+* Reinforcement learning
+* Deep learning and PyTorch
+* Control and simulation
+* Autonomous decision-making
+* Multi-agent systems
+* AI-assisted engineering
 
-- 🔐 **[CodeFlow Agent](https://github.com/ObedienceAdara/codeflow-agent)**: A multi-agent AI system that orchestrates entire development workflows autonomously
-- 🧠 **MetaForge**: Autonomous metadata intelligence platform. LangGraph + FastAPI + OpenMetadata APIs
-- 🏭 **[Plex Hedge](https://github.com/plexhedge)**: AI automation & integration agency. n8n workflows, agentic systems, real business results for SMBs — funding the path to aerospace/autonomous systems
-
----
-
-## What I Build (still actively working on) 
-
-- **RL & Autonomous Systems (learning)**: Gymnasium, PyTorch, control problems as foundation for aerospace work
-- **Agentic AI Systems**: Multi-agent pipelines using LangGraph, LangChain, and Claude API
-- **Workflow Automation**: Production-grade n8n systems for ecommerce, ops, and client delivery
-- **Automation Infrastructure**: Systems that replace repetitive human work, permanently
+The goal is to move from toy environments to increasingly realistic autonomous-system problems.
 
 ---
 
-## Open Source
+## Reinforcement Learning
 
-- 🤖 **Lead Qualifier Agent**: LangGraph agent that qualifies inbound leads autonomously
-- 👥 **[AI Hiring Team](https://github.com/ObedienceAdara/AI-hiring-team)**: Multi-agent recruitment pipeline (sourcing → screening → decision)
-- 🧑‍💼 **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: Simulated executive board for business decision analysis
-- 🔍 **Research Agent**: Autonomous deep-research pipeline with structured output
-- 🧪 **[ML Paper Implementation Team](https://github.com/ObedienceAdara/Board-of-Scientists)**: Multi-agent system that reads and implements ML papers
-- 🔬 **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**: AI Research Implementation Team is dedicated to advancing artificial intelligence technologies and translating cutting-edge research into practical applications
-- **[Prologue](https://github.com/ObedienceAdara/Prologue)**: An autonomous AI agent that connects to a GitHub repository, analyzes code for "code smells", creates a refactoring plan, applies changes in a new branch, runs tests, and opens a Pull Request.
+**[RL Learning Log](https://github.com/ObedienceAdara/rl-learning-log)**
 
----
+A public record of my reinforcement-learning journey.
 
-## Stack
+Current progression:
 
-- **RL/AI Learning:** Python · PyTorch · Gymnasium
-- **Orchestration:** LangGraph · LangChain · n8n
-- **LLMs:** Claude API · OpenRouter · Gemini · Groq · Qwen
-- **Backend:** FastAPI · Python · Node.js · TypeScript
-- **Infra:** Docker · PostgreSQL · Supabase · Vercel
-- **Auth & Security:** Auth0 · JWT · OAuth2
+`Gymnasium → CartPole → LunarLander → increasingly complex control problems`
 
----
+I'm using these experiments to build practical understanding of:
 
-## What I'm Doing
+* Markov decision processes
+* Policies and value functions
+* Q-learning
+* Policy gradients
+* Actor-critic methods
+* Exploration vs exploitation
+* Reward design
+* PyTorch implementations
+* Simulation-based control
 
-- **Learning in public**: documenting the RL/aerospace journey alongside the business
-- **Shipping agentic systems**: real tools, real repos, real impact
-- **Building in public**: LinkedIn · X · Threads 
-- **Competing in hackathons**: turning builds into proof of work
-- **Writing about AI automation**: what actually works, from Lagos to the world
+Longer term: applying RL to **UAVs, robotics, and aerospace control systems**.
 
 ---
 
-## Recognition
+## Selected Projects
 
-- 🏆 Auth0 "Authorized to Act" Hackathon competitor, AgentGate
-- 🏗️ WeMakeDevs / OpenMetadata Hackathon competitor, MetaForge
-- 📣 Building [@plexhedge](https://github.com/plexhedge), AI automation agency with paying clients
+- **[Prologue](https://github.com/ObedienceAdara/Prologue)**: Autonomous software-engineering agent that connects to a GitHub repository, analyzes code, identifies code smells, creates a refactoring plan, applies changes on a new branch, runs tests, and opens a pull request.
+
+- **[CodeFlow Agent](https://github.com/ObedienceAdara/codeflow-agent)**: A multi-agent system for orchestrating software-development workflows across planning, implementation, testing, and execution.
+
+- **[AI Hiring Team](https://github.com/ObedienceAdara/AI-hiring-team)**: Multi-agent recruitment workflow covering sourcing, candidate screening, evaluation, and decision support.
+
+- **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: A simulated executive decision-making system where specialized AI agents analyze business decisions from different perspectives.
+
+- **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**: AI research implementation system focused on reading machine-learning papers, decomposing their methods, and translating research ideas into working implementations.
+
+---
+
+## Engineering Interests
+
+**Autonomous Systems**
+
+* Reinforcement learning
+* UAV autonomy
+* Robotics
+* AI-based control
+* Multi-agent systems
+* Simulation and decision-making
+
+**AI Engineering**
+
+* Agentic systems
+* LLM orchestration
+* Research agents
+* AI automation
+* Model integration
+* Production AI systems
+
+**Aerospace**
+
+* Autonomous flight
+* Intelligent control
+* Human-machine teaming
+* AI-assisted aerospace engineering
+* Simulation-driven development
+
+---
+
+## Plex Hedge
+
+**[Plex Hedge](https://github.com/plexhedge)**
+
+AI automation and integration agency focused on building production systems for businesses.
+
+I use this as my commercial engineering track while developing deeper technical expertise in AI and autonomous systems.
+
+Current work includes:
+
+* AI workflow automation
+* Agentic workflows
+* Business process automation
+* API integrations
+* Production AI systems
+
+---
+
+## How I Work
+
+I learn by building.
+
+Rather than keeping projects private until they're finished, I document experiments, implementations, failures, and results publicly.
+
+That means:
+
+**Learn → Build → Measure → Document → Iterate**
+
+I'm particularly interested in the gap between research ideas and systems that actually work outside a notebook.
+
+---
+
+## Currently Exploring
+
+* Reinforcement learning from first principles
+* Efficient AI inference and training
+* Autonomous UAV decision-making
+* Multi-agent architectures
+* AI-assisted engineering workflows
+* Simulation and control
+* Research reproduction and implementation
 
 ---
 
 ### Philosophy
 
-> "Execution is the only argument." I build things that solve real problems and ship
-> them publicly. Right now that means running a real business with one hand while
-> building genuine depth in RL and autonomous systems with the other — because the
-> business is the fuel, and aerospace/autonomous systems is the destination.
+> **"Execution is the only argument."**
+
+I want my GitHub to function as a record of what I can actually build — not just what I say I'm interested in.
+
+The current mission is simple:
+
+**Build the engineering foundation. Build real systems. Push toward autonomous aerospace.**
 
 <details>
 <summary>Random Facts</summary>
 
-- Run multiple AI agents concurrently so I can sleep while they work
-- Believe n8n is criminally underrated
-- Lagos-based, building for global markets, aiming for aerospace/defense tech
-- Obsessed with intelligent systems — machines that think, and humans that decide under pressure
-- "Ship it, then make it perfect" is not a philosophy. It's survival.
+* I run multiple AI agents concurrently.
+* I believe n8n is dramatically underrated.
+* I'm building from Lagos for global markets.
+* I'm interested in systems where humans and machines make decisions together.
+* I prefer shipping a working system and iterating over waiting for perfection.
 
 </details>
