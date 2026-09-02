@@ -61,11 +61,11 @@ Follow my progress: **[RL Lab ↗️](https://obedienceadara.vercel.app/lab)**
 
 ## Selected Projects
 
+- **[Flight Dynamics Simulator](https://github.com/ObedienceAdara/nonlinear-aircraft-flight-dynamics-simulator)**: A from-scratch nonlinear rigid-body aircraft flight-dynamics simulator in Python, built around six-degree-of-freedom equations of motion, quaternion attitude propagation, aerodynamic force/moment buildup, atmosphere and wind models, numerical integration, verification tests, and reproducible engineering outputs.
+
 - **[Prologue](https://github.com/ObedienceAdara/Prologue)**: Autonomous software-engineering agent that connects to a GitHub repository, analyzes code, identifies code smells, creates a refactoring plan, applies changes on a new branch, runs tests, and opens a pull request.
 
 - **[CodeFlow Agent](https://github.com/ObedienceAdara/codeflow-agent)**: A multi-agent system for orchestrating software-development workflows across planning, implementation, testing, and execution.
-
-- **[AI Hiring Team](https://github.com/ObedienceAdara/AI-hiring-team)**: Multi-agent recruitment workflow covering sourcing, candidate screening, evaluation, and decision support.
 
 - **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: A simulated executive decision-making system where specialized AI agents analyze business decisions from different perspectives.
 
