@@ -63,13 +63,15 @@ Follow my progress: **[RL Lab ↗️](https://obedienceadara.vercel.app/lab)**
 
 - **[Flight Dynamics Simulator](https://github.com/ObedienceAdara/nonlinear-aircraft-flight-dynamics-simulator)**: A from-scratch nonlinear rigid-body aircraft flight-dynamics simulator in Python, built around six-degree-of-freedom equations of motion, quaternion attitude propagation, aerodynamic force/moment buildup, atmosphere and wind models, numerical integration, verification tests, and reproducible engineering outputs.
 
+- **[Apogee](https://github.com/ObedienceAdara/apogee_v)**: A systems-engineering pipeline for rocket mission design, flight simulation, uncertainty analysis, recovery trade studies, and flight-readiness reporting.
+
+- **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**: AI research implementation system focused on reading machine-learning papers, decomposing their methods, and translating research ideas into working implementations.
+
+- **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: A simulated executive decision-making system where specialized AI agents analyze business decisions from different perspectives. 
+
 - **[Prologue](https://github.com/ObedienceAdara/Prologue)**: Autonomous software-engineering agent that connects to a GitHub repository, analyzes code, identifies code smells, creates a refactoring plan, applies changes on a new branch, runs tests, and opens a pull request.
 
 - **[CodeFlow Agent](https://github.com/ObedienceAdara/codeflow-agent)**: A multi-agent system for orchestrating software-development workflows across planning, implementation, testing, and execution.
-
-- **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: A simulated executive decision-making system where specialized AI agents analyze business decisions from different perspectives.
-
-- **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**: AI research implementation system focused on reading machine-learning papers, decomposing their methods, and translating research ideas into working implementations.
 
 ---
 
