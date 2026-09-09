@@ -65,6 +65,8 @@ Follow my progress: **[RL Lab ↗️](https://obedienceadara.vercel.app/lab)**
 
 - **[Apogee](https://github.com/ObedienceAdara/apogee_v)**: A systems-engineering pipeline for rocket mission design, flight simulation, uncertainty analysis, recovery trade studies, and flight-readiness reporting.
 
+- **[PINN](https://github.com/ObedienceAdara/pinn)**: A clean PyTorch implementation of a standard Physics-Informed Neural Network (PINN) 
+
 - **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**: AI research implementation system focused on reading machine-learning papers, decomposing their methods, and translating research ideas into working implementations.
 
 - **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: A simulated executive decision-making system where specialized AI agents analyze business decisions from different perspectives. 
