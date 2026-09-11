@@ -1,109 +1,126 @@
 # Obedience Adara
 
-**Aerospace & Autonomous Systems Engineer in Training** · **Reinforcement Learning** · **AI Systems** · **Founder, Plex Hedge**
+**Aerospace Engineering Student building toward Autonomous Systems through Reinforcement Learning, Control, AI/ML & Simulation.**
+
+[Portfolio](https://obedienceadara.vercel.app) · [RL Lab](https://obedienceadara.vercel.app/lab) · [LinkedIn](https://www.linkedin.com/in/obedience-adara) · [X](https://x.com/ObedienceAdara)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-654FF0?style=flat-square\&logo=scipy\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Gymnasium](https://img.shields.io/badge/-Gymnasium-0081A5?style=flat-square\&logo=python\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/-Gymnasium-0081A5?style=flat-square)
+![RocketPy](https://img.shields.io/badge/-RocketPy-111827?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
-> Building toward aerospace and autonomous systems through reinforcement learning, AI engineering, simulation, and intelligent decision-making — while building AI automation systems that fund the journey.
+> I'm building the computational and engineering foundations for autonomous aerospace systems: model the physics, simulate the system, control it, learn from interaction, and verify the result.
 
 ---
 
-## What I'm Building Toward
+## Direction
 
 My long-term focus is **autonomous systems for aerospace**.
 
-I'm currently developing the foundations through:
+The common thread across my work is:
 
-* Reinforcement learning
-* Deep learning and PyTorch
-* Control and simulation
-* Autonomous decision-making
-* Multi-agent systems
-* AI-assisted engineering
+`Model → Simulate → Control → Learn → Verify`
 
-The goal is to move from toy environments to increasingly realistic autonomous-system problems.
+I'm developing that foundation through four connected areas:
+
+- **Aerospace engineering** — flight dynamics, propulsion, aerodynamics, stability, mission design
+- **Simulation & control** — nonlinear dynamics, numerical methods, system modelling, verification
+- **Reinforcement learning** — decision-making, value functions, policy learning, reward design, deep RL
+- **AI/ML for engineering** — physics-informed learning, research implementation, intelligent engineering workflows
+
+The goal is to progress from controlled learning environments toward increasingly realistic autonomous-system problems.
 
 ---
 
-## Reinforcement Learning
+## Current Work
 
-**[RL Learning Log](https://github.com/ObedienceAdara/rl-learning-log)**
+### Reinforcement Learning
 
-A public record of my reinforcement-learning journey.
+**[RL Learning Log](https://github.com/ObedienceAdara/rl-learning-log)** · **[RL Lab ↗](https://obedienceadara.vercel.app/lab)**
+
+A public record of moving from first-principles reinforcement learning toward autonomous control.
 
 Current progression:
 
-`Gymnasium → CartPole → LunarLander → increasingly complex control problems`
+`Tabular RL → GridWorld → Deep RL → LunarLander → Continuous Control → Aerospace Autonomy`
 
-I'm using these experiments to build practical understanding of:
+Recent work includes:
 
-* Markov decision processes
-* Policies and value functions
-* Q-learning
-* Policy gradients
-* Actor-critic methods
-* Exploration vs exploitation
-* Reward design
-* PyTorch implementations
-* Simulation-based control
+- Q-learning from scratch in discrete environments
+- CartPole experiments and evaluation
+- GridWorld planning and policy visualization
+- Deep RL with Lunar Lander
+- Public experiment logs, results, failures, and theory notes
 
-Longer term: applying RL to **UAVs, robotics, and aerospace control systems**.
+Longer term, I'm applying these foundations to **UAVs, robotics, and aerospace control systems**.
 
-Follow my progress: **[RL Lab ↗️](https://obedienceadara.vercel.app/lab)**
+### Physics, Simulation & Engineering AI
 
----
+My aerospace and physics-oriented work explores how computational models and learning systems can work together:
 
-## Selected Projects
-
-- **[Flight Dynamics Simulator](https://github.com/ObedienceAdara/nonlinear-aircraft-flight-dynamics-simulator)**: A from-scratch nonlinear rigid-body aircraft flight-dynamics simulator in Python, built around six-degree-of-freedom equations of motion, quaternion attitude propagation, aerodynamic force/moment buildup, atmosphere and wind models, numerical integration, verification tests, and reproducible engineering outputs.
-
-- **[Apogee](https://github.com/ObedienceAdara/apogee_v)**: A systems-engineering pipeline for rocket mission design, flight simulation, uncertainty analysis, recovery trade studies, and flight-readiness reporting.
-
-- **[PINN](https://github.com/ObedienceAdara/pinn)**: A clean PyTorch implementation of a standard Physics-Informed Neural Network (PINN) 
-
-- **[Board of Scientists](https://github.com/ObedienceAdara/Board-of-Scientists)**: AI research implementation system focused on reading machine-learning papers, decomposing their methods, and translating research ideas into working implementations.
-
-- **[Board of Directors AI](https://github.com/ObedienceAdara/Board-of-Directors)**: A simulated executive decision-making system where specialized AI agents analyze business decisions from different perspectives. 
-
-- **[Prologue](https://github.com/ObedienceAdara/Prologue)**: Autonomous software-engineering agent that connects to a GitHub repository, analyzes code, identifies code smells, creates a refactoring plan, applies changes on a new branch, runs tests, and opens a pull request.
-
-- **[CodeFlow Agent](https://github.com/ObedienceAdara/codeflow-agent)**: A multi-agent system for orchestrating software-development workflows across planning, implementation, testing, and execution.
+- Nonlinear aircraft flight dynamics and 6-DOF simulation
+- Rocket mission design, uncertainty analysis, and recovery trade studies
+- Physics-Informed Neural Networks for differential-equation problems
+- Research reproduction and translation of papers into working implementations
 
 ---
 
-## Engineering Interests
+## Featured Engineering Work
+
+### [Aircraft 6-DOF Flight Dynamics Simulator](https://github.com/ObedienceAdara/nonlinear-aircraft-flight-dynamics-simulator)
+
+A from-scratch nonlinear rigid-body aircraft simulator built around:
+
+- **13-state** flight dynamics
+- Six-degree-of-freedom equations of motion
+- Quaternion attitude propagation
+- Aerodynamic force and moment buildup
+- Atmosphere, wind and reproducible turbulence modelling
+- RK4 numerical integration
+- Actuators, CSV/JSON outputs, engineering plots and verification tests
+
+The project is structured around explicit assumptions, reproducible simulations, and a clear distinction between verification and validation.
+
+### [Apogee](https://github.com/ObedienceAdara/apogee_v)
+
+A systems-engineering pipeline for rocket mission design and flight-readiness analysis.
+
+`Environment → Motor Selection → Stability → 6-DOF Monte Carlo → Recovery Trade Study → Flight-Data Comparison → Report`
+
+Current demo evidence includes **120 Monte Carlo runs**, **19 unit tests**, a **2200 m target apogee**, and a demonstrated **0.12% apogee error** under the project's stated assumptions.
+
+### [PINN](https://github.com/ObedienceAdara/pinn)
+
+A reusable PyTorch implementation of a standard Physics-Informed Neural Network for learning solutions to differential equations.
+
+The core example solves the **1D heat equation** and is benchmarked against an analytical solution, with additional example problems for thermal barriers, electronics cooling, and 1D viscous Burgers flow.
+
+### [RL Learning Log](https://github.com/ObedienceAdara/rl-learning-log)
+
+My public reinforcement-learning notebook in repository form: implementations, visualizations, experiments, mistakes, and measured results rather than only completed projects.
+
+---
+
+## Research & Systems Interests
+
+My strongest technical interests sit at the intersection of:
 
 **Autonomous Systems**
 
-* Reinforcement learning
-* UAV autonomy
-* Robotics
-* AI-based control
-* Multi-agent systems
-* Simulation and decision-making
+Reinforcement learning · autonomous flight · robotics · decision-making · intelligent control · simulation
 
-**AI Engineering**
+**Computational Engineering**
 
-* Agentic systems
-* LLM orchestration
-* Research agents
-* AI automation
-* Model integration
-* Production AI systems
+Flight dynamics · numerical methods · modelling · verification · uncertainty · physics-informed learning
 
-**Aerospace**
+**AI/ML**
 
-* Autonomous flight
-* Intelligent control
-* Human-machine teaming
-* AI-assisted aerospace engineering
-* Simulation-driven development
+Deep learning · PyTorch · research implementation · AI-assisted engineering · learning-based control
+
+I'm especially interested in systems where **physics, control, learning, and decision-making interact**.
 
 ---
 
@@ -111,63 +128,57 @@ Follow my progress: **[RL Lab ↗️](https://obedienceadara.vercel.app/lab)**
 
 **[Plex Hedge](https://github.com/plexhedge)**
 
-AI automation and integration agency focused on building production systems for businesses.
+My commercial engineering track: building production AI automation and integration systems for businesses.
 
-I use this as my commercial engineering track while developing deeper technical expertise in AI and autonomous systems.
+It has given me practical experience with:
 
-Current work includes:
+- Workflow automation
+- API integrations
+- Agentic systems
+- Production AI systems
 
-* AI workflow automation
-* Agentic workflows
-* Business process automation
-* API integrations
-* Production AI systems
+This work is complementary to my core technical direction in aerospace and autonomous systems.
 
 ---
 
 ## How I Work
 
-I learn by building.
+I learn by building and make the process visible.
 
-Rather than keeping projects private until they're finished, I document experiments, implementations, failures, and results publicly.
+**Learn → Build → Measure → Explain → Document → Iterate**
 
-That means:
+I care about more than making a model run. I try to make assumptions explicit, record measurements, examine failure modes, and understand where a result is trustworthy and where it is not.
 
-**Learn → Build → Measure → Document → Iterate**
-
-I'm particularly interested in the gap between research ideas and systems that actually work outside a notebook.
+My GitHub is intended to be evidence of what I can actually build, test, explain, and improve.
 
 ---
 
-## Currently Exploring
+## Current Focus
 
-* Reinforcement learning from first principles
-* Efficient AI inference and training
-* Autonomous UAV decision-making
-* Multi-agent architectures
-* AI-assisted engineering workflows
-* Simulation and control
-* Research reproduction and implementation
+- Reinforcement learning from first principles
+- Deep RL and learning-based control
+- Nonlinear simulation and system modelling
+- AI/ML for engineering problems
+- Building toward autonomous UAV and aerospace systems
+
+---
+
+## Engineering Principles
+
+**Make assumptions visible.**
+
+**Measure the result.**
+
+**Study failure modes.**
+
+**Separate verification from validation.**
+
+**Prefer reproducible evidence over impressive claims.**
 
 ---
 
 ### Philosophy
 
-> **"Execution is the only argument."**
-
-I want my GitHub to function as a record of what I can actually build — not just what I say I'm interested in.
-
-The current mission is simple:
+> **“Execution is the only argument.”**
 
 **Build the engineering foundation. Build real systems. Push toward autonomous aerospace.**
-
-<details>
-<summary>Random Facts</summary>
-
-* I run multiple AI agents concurrently.
-* I believe n8n is dramatically underrated.
-* I'm building from Lagos for global markets.
-* I'm interested in systems where humans and machines make decisions together.
-* I prefer shipping a working system and iterating over waiting for perfection.
-
-</details>
