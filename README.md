@@ -92,7 +92,7 @@ A systems-engineering pipeline for rocket mission design and flight-readiness an
 
 Current demo evidence includes **120 Monte Carlo runs**, **19 unit tests**, a **2200 m target apogee**, and a demonstrated **0.12% apogee error** under the project's stated assumptions.
 
-- ### [Flight Dynamics Toolkit](https://github.com/ObedienceAdara/flight-dynamics-toolkit)
+### [Flight Dynamics Toolkit](https://github.com/ObedienceAdara/flight-dynamics-toolkit)
 
 A full software-engineering refactor of Robert Stengel's FLIGHTv2.m six-degree-of-freedom flight simulator — class-based architecture, JSON config, test suite, quaternion renormalization, Dryden turbulence modeling, and variable-mass/fuel-burn dynamics.
 
